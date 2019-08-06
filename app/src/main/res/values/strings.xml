@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Programmer Guide</string>
+    <string name="languages">Languages</string>
+    <string name="C">C</string>
+    <string name="Cplusplus">C++</string>
+    <string name="Csharp">C#</string>
+    <string name="Java">Java</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+</resources>
